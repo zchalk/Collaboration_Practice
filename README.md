@@ -1,3 +1,2 @@
 # Collaboration_Practice
-jumped over the lazy dog
-The quick brown fox”
+The quick brown dog jumped over the lazy fox.
